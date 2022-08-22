@@ -25,6 +25,7 @@ function App() {
         <><Product Product={Products[0]}></Product>
           <Product Product={Products[1]}></Product>
           <Product Product={Products[2]}></Product>
+          <Product Product={Products[2]}></Product>
           </>
         }
       </header>
